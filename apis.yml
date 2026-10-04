@@ -39,7 +39,6 @@ apis:
   - name: CDNJS
     description: "Library info on CDNJS"
     humanURL: https://api.cdnjs.com/libraries/jquery
-    baseURL: https://api.cdnjs.com/libraries/jquery
     tags:
       - Development
     properties:
